@@ -8,3 +8,4 @@ events.out.tfevents.*
 *.log
 .cache/
 .vscode/
+.env

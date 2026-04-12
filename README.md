@@ -144,9 +144,7 @@ Exited
 * Batch prediction upload
 * Deployment on Streamlit Cloud
 * Docker support
-
 ---
-
 ## Author
 
 Himanshu Mali

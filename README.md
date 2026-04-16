@@ -4,8 +4,10 @@ Predict whether a bank customer is likely to **churn** using an **Artificial Neu
 
 ---
 
-## Live App Preview
-https://huggingface.co/spaces/HimanshuMali/CustomerChurn_Prediction_ANN
+## 🚀 Live Demo  
+[![Open App](https://img.shields.io/badge/Launch-App-blue?style=for-the-badge)](https://huggingface.co/spaces/HimanshuMali/CustomerChurn_Prediction_ANN)
+
+_(Ctrl + Click to open in new tab)_
 This project takes customer details and predicts:
 
 * Churn Probability
@@ -26,16 +28,20 @@ This project takes customer details and predicts:
 ---
 
 ## Tech Stack
-
-* Python
-* TensorFlow / Keras
-* Scikit-learn
-* Pandas / NumPy
-* Streamlit
-* Pickle
-
+- TensorFlow / Keras (ANN)
+- Python
+- Scikit-learn (Preprocessing)
+- Pandas / NumPy
+- Streamlit (UI)
+- Docker (Deployment)
+- Hugging Face Spaces
 ---
-
+## Key Highlights
+- Built ANN model for churn prediction
+- Applied feature engineering and encoding
+- Deployed using Docker on Hugging Face
+- Real-time prediction with probability output
+---
 ## Project Structure
 
 ```

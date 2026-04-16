@@ -5,7 +5,7 @@ Predict whether a bank customer is likely to **churn** using an **Artificial Neu
 ---
 
 ## Live App Preview
-
+https://huggingface.co/spaces/HimanshuMali/CustomerChurn_Prediction_ANN
 This project takes customer details and predicts:
 
 * Churn Probability

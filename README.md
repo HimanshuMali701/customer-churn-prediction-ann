@@ -8,6 +8,7 @@ Predict whether a bank customer is likely to **churn** using an **Artificial Neu
 [![Open App](https://img.shields.io/badge/Launch-App-blue?style=for-the-badge)](https://huggingface.co/spaces/HimanshuMali/CustomerChurn_Prediction_ANN)
 
 _(Ctrl + Click to open in new tab)_
+
 This project takes customer details and predicts:
 
 * Churn Probability
